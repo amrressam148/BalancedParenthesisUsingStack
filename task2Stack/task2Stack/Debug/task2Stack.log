@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\YAS\source\repos\task2Stack\task2Stack\Source.c(74,19): warning C4013: 'strlen' undefined; assuming extern returning int
+  task2Stack.vcxproj -> C:\Users\YAS\source\repos\task2Stack\Debug\task2Stack.exe
